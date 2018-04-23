@@ -1,0 +1,10 @@
+main: shskullfinding.SHSkullFinding
+name: SHSkullFinding
+version: 1.0.0
+author: SpaceHorizons
+description: Made by PublicGameCoder.
+
+commands:
+   shfinding:
+      description: 'Usage: /shfinding <playerHeadName> <amount>'
+      permission: SHSkullFinding.admin
